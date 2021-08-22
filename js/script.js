@@ -1,36 +1,56 @@
 var quotes = [
   {
-    quote: "Because you always make me smile even on my grumpiest of days",
+    quote: "I love you because you always make me smile even on my grumpiest of days",
     source: "Reasons why I love you",
-    tags: ["RWILY"]
   },
   {
-    quote: "Because you love me for me and accept me for my weird self",
+    quote: "I love you because you love me for me and accept me for my weird self",
     source: "Reasons why I love you",
-    tags: ["RWILY"]
   },
   {
-    quote: "Because you go above and beyond to help your family and mine",
+    quote: "I love you because you go above and beyond to help your family and mine",
     source: "Reasons why I love you",
-    tags: ["RWILY"]
   },
   {
-    quote: "Because you always make me smile",
+    quote: "I love you because you make an effort and show up, every single time",
     source: "Reasons why I love you",
-    tags: ["RWILY"]
   },
   {
-    quote: "Done is better than perfect.",
-    source: "Sheryl Sandberg",
-    tags: ["Just Do It", "Tech"]
+    quote: "I love you because you perfectly plan our dates and all our little ceremonies",
+    source: "Reasons why I love you",
   },
   {
-    quote: "The only thing we have to fear is fear itself.",
-    source: "Franklin D. Roosevelt",
-    citation: "First Inaugural Address",
-    year: 1933,
-    tags: ["Hope", "Politics"]
-  }
+    quote: "I love you because you know exactly how to push my buttons, which can be hella annoying sometimes, but still the best",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love you because the rest of my life with you looks so beautiful",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love you because you love winding me up and I get wound up so easily",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love you because you have a go at me, when I really need to hear it",
+    source: "Reasons why I love you",
+  },
+    {
+    quote: "I love you because you are independent and encourage me to be a SIW",
+    source: "Reasons why I love you",
+  },
+    {
+    quote: "I love you because you make me feel special, even on days I don't feel particularly like myself",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love you because evoke a different sense of adventure within me",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love you because you are independent and encourage me to be a SIW",
+    source: "Reasons why I love you",
+  },
 ];
 
 // CSS Color Names
