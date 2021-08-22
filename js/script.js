@@ -69,7 +69,7 @@ var quotesUsed = [];
 var intervalID;
 
 // const keyword is not supported in IE
-var NUMBER_OF_QUOTES = 10;
+var NUMBER_OF_QUOTES = 13;
 var CHANGE_INTERVAL = 10000;
 
 // From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
@@ -96,7 +96,7 @@ function getRandomQuote() {
 
   do {
 
-    quoteIndex = getRandomIntInclusive(0, 5);
+    quoteIndex = getRandomIntInclusive(0, 13);
 
   } while (quotesUsed.includes(quoteIndex));
 
