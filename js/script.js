@@ -1,23 +1,23 @@
 var quotes = [
   {
-    quote: "No Grit, No Pearl.",
-    source: "Anonymous",
-    tags: ["Grit", "Determination", "Success"]
+    quote: "Because you always make me smile even on my grumpiest of days",
+    source: "Reasons why I love you",
+    tags: ["RWILY"]
   },
   {
-    quote: "You miss 100% of the shots you don't take.",
-    source: "Wayne Gretzky",
-    tags: ["Just Do It", "Sports"]
+    quote: "Because you love me for me and accept me for my weird self",
+    source: "Reasons why I love you",
+    tags: ["RWILY"]
   },
   {
-    quote: "Fall seven times, stand up eight.",
-    source: "Japanese Proverb",
-    tags: ["Determination", "Grit"]
+    quote: "Because you go above and beyond to help your family and mine",
+    source: "Reasons why I love you",
+    tags: ["RWILY"]
   },
   {
-    quote: "I have not failed. I've just found 10,000 ways that won&#39;t work.",
-    source: "Thomas A. Edison",
-    tags: ["Perserverance", "Innovation"]
+    quote: "Because you always make me smile",
+    source: "Reasons why I love you",
+    tags: ["RWILY"]
   },
   {
     quote: "Done is better than perfect.",
