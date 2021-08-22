@@ -156,7 +156,6 @@ var quotes = [
     source: "Reasons why I love you",
   },
 ];
-
 // CSS Color Names
 // Compiled by @bobspace.
 //
@@ -165,7 +164,7 @@ var quotes = [
 // Use it as you please, 'cuz you can't, like, own a color, man.
 // I deleted colors that didn't provide sufficient contrast or seemed particularly grating.
 
-var CSS_COLOR_NAMES = ["Blue", "BlueViolet", "Brown", "BurlyWood", "CadetBlue", "Chocolate", "Coral", "CornflowerBlue", "Crimson", "DarkBlue", "DarkCyan", "DarkGoldenRod", "DarkGray", "DarkGrey", "DarkGreen", "DarkKhaki", "DarkMagenta", "DarkOliveGreen", "Darkorange", "DarkOrchid", "DarkRed", "DarkSalmon", "DarkSeaGreen", "DarkSlateBlue", "DarkSlateGray", "DarkSlateGrey", "DarkTurquoise", "DarkViolet", "DeepPink", "DeepSkyBlue", "FireBrick", "ForestGreen", "Fuchsia", "Green", "HotPink", "IndianRed", "Indigo", "Magenta", "Maroon", "MediumAquaMarine", "MediumBlue", "MediumOrchid", "MediumPurple", "MediumSeaGreen", "MediumSlateBlue", "MediumTurquoise", "MediumVioletRed", "MidnightBlue", "Olive", "OliveDrab", "Orange", "OrangeRed", "Orchid", "Pink", "Plum", "PowderBlue", "Purple", "RosyBrown", "RoyalBlue", "SaddleBrown", "Salmon", "SlateBlue", "SlateGray", "SlateGrey", "SpringGreen", "SteelBlue", "Teal", "Thistle", "Tomato", "Turquoise", "Violet"];
+var CSS_COLOR_NAMES = ["Thistle", "SkyBlue", "Silver", "LightSalmon", "Plum", "PaleTurquoise", "NavajoWhite", "LightPink", "LightGrey", "LightBlue"];
 
 var quoteIndex = 0;
 var colorIndex = 0;
@@ -173,9 +172,8 @@ var quotesUsed = [];
 var intervalID;
 
 // const keyword is not supported in IE
-var NUMBER_OF_QUOTES = 40;
+var NUMBER_OF_QUOTES = 187;
 var CHANGE_INTERVAL = 1000000;
-
 
 // From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
@@ -201,7 +199,7 @@ function getRandomQuote() {
 
   do {
 
-    quoteIndex = getRandomIntInclusive(0, 41);
+    quoteIndex = getRandomIntInclusive(0, 186);
 
   } while (quotesUsed.includes(quoteIndex));
 
