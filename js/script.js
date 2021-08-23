@@ -1,26 +1,26 @@
 var quotes = [
   {
-    quote: "I love how you always make me smile even on my grumpiest of days",
+    quote: "You always make me smile even on my grumpiest of days and those come around very often",
     source: "Reasons why I love you",
   },
   {
-    quote: "I love how you love me for me and accept me for my weird self",
+    quote: "You love me for me and accept me for my weird self, I never have to pretend to be someone I am not and I am so appreciative of that",
     source: "Reasons why I love you",
   },
   {
-    quote: "I love how you go above and beyond to help your family and mine",
+    quote: "You go above and beyond to help your family and mine",
     source: "Reasons why I love you",
   },
   {
-    quote: "I love how you make an effort and show up, every single time",
+    quote: "You make an effort and show up, every SINGLE time",
     source: "Reasons why I love you",
   },
   {
-    quote: "I love how you perfectly plan our dates and all our little ceremonies",
+    quote: "You perfectly plan our dates and all our little ceremonies and put so much thought into the process",
     source: "Reasons why I love you",
   },
   {
-    quote: "I love how you know exactly how to push my buttons, which can be hella annoying sometimes, but still the best",
+    quote: "You know exactly how to push my buttons, which can be hella annoying sometimes, but still the best",
     source: "Reasons why I love you",
   },
    {
@@ -28,15 +28,15 @@ var quotes = [
     source: "Reasons why I love you",
   },
    {
-    quote: "I love how because you love winding me up and I get wound up so easily",
+    quote: "You love winding me up and I get wound up so easily, but I would not have it any other way",
     source: "Reasons why I love you",
   },
    {
-    quote: "I love when you have a go at me, when I really need to hear it",
+    quote: "I love when you have a go at me when I really need to hear it because even when it is a little harsh sometimes, it is exactly what I need",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how you are independent and encourage me to be a SIW",
+    quote: "I love how independent you are and encourage me to be a SIW",
     source: "Reasons why I love you",
   },
     {
@@ -44,11 +44,11 @@ var quotes = [
     source: "Reasons why I love you",
   },
    {
-    quote: "I love how you evoke a different sense of adventure within me",
+    quote: "You evoke a different sense of adventure within me",
     source: "Reasons why I love you",
   },
    {
-    quote: "I love how you always challenge me and are always up for a good debate",
+    quote: "You always challenge me and are always up for a good debate",
     source: "Reasons why I love you",
   },
   {
@@ -56,7 +56,7 @@ var quotes = [
     source: "Reasons why I love you",
   },
    {
-    quote: "I love how we have similar interests and have things we can do together, including our little business and things we can enjoy on our own",
+    quote: "We have similar interests and have things we can do together, including our little business and things we can enjoy on our own",
     source: "Reasons why I love you",
   },
   {
@@ -68,11 +68,11 @@ var quotes = [
     source: "Reasons why I love you",
   },
    {
-    quote: "I love how we enjoy watching the similar shows",
+    quote: "We enjoy watching the similar shows, be it The Block or a comedy and secretly, I like you love my Bollywood movies",
     source: "Reasons why I love you",
   },
    {
-    quote: "I love how at the end of the day I just want to chill out with you and have a good laugh",
+    quote: "At the end of the day I just want to chill out with you and have a good laugh and that has been a major green flag to me",
     source: "Reasons why I love you",
   },
    {
@@ -84,11 +84,11 @@ var quotes = [
     source: "Reasons why I love you",
   },
    {
-    quote: "I love your big smile, the one I can see all your teeth and that cute dimple",
+    quote: "I love love love your big smile, the one I can see all your teeth and that cute dimple",
     source: "Reasons why I love you",
   },
   {
-    quote: "I love how you are always up for a challenge",
+    quote: "I love how you are always up for a challenge and inspire me to do different things (Tough mudder, once they respond to your email ofc)",
     source: "Reasons why I love you",
   },
   {
@@ -108,19 +108,19 @@ var quotes = [
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how ambitious you are and are not afraid to dream big",
+    quote: "I love how level-headed you are. Your sense of responsibility makes me feel secure when I’m with you. Thank you for always keeping me out of trouble!",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how your main goal in life is to be a good person",
+    quote: "Your main goal in life is to be a good person",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how appreciate my chonky thighs and tum chub",
+    quote: "I love how you appreciate my chonky thighs and tum chub",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how you love your little birdies and are a literal mother hen",
+    quote: "You love your little birdies and are a literal mother hen, it is so damn cute",
     source: "Reasons why I love you",
   },
     {
@@ -128,19 +128,19 @@ var quotes = [
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how gender roles are not a massive deal to you",
+    quote: "Gender roles are not a massive deal to you, you will cook up a storm and clean and you cheer on me when I do things that aren't traditionally a woman's job",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how you balance me out, harden me up when I need to and soften the edges when I am harsh",
+    quote: "You balance me out, harden me up when I need to and soften the edges when I am harsh",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how you love house stuff and inject so much personality in your home (this was written while watching the block, obvs)",
+    quote: "You love house stuff and inject so much personality in your home (this was written while watching the block, obvs)",
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how you want to travel the world with me",
+    quote: "You want to travel the world with me and I cannot wait",
     source: "Reasons why I love you",
   },
     {
@@ -148,13 +148,140 @@ var quotes = [
     source: "Reasons why I love you",
   },
     {
-    quote: "I love how you give back to the community and to the less fortunate- and don't really say a word about it",
+    quote: "You give back to the community and to the less fortunate- and don't really say a word about it",
     source: "Reasons why I love you",
   },
     {
     quote: "I love how much you care about nanimaa (it shows me that I am with someone who will always take care of me)",
     source: "Reasons why I love you",
+  },//39
+    {
+    quote: "The sound of your laugh lights up the world! Your happiness is infectious, and I can’t wait for more laughs with you!",
+    source: "Reasons why I love you",
   },
+  
+    {
+    quote: "We have so many laugh out loud moments, I couldn’t count them if I tried! I will treasure them forever and I can’t wait to share more giggles with you!",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love how you can always put a positive spin on things. Your positive and happy personality is magnetic – I don’t ever want to be without it!",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I feel like I can share everything with you",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I trust you with my whole heart and I promise to always be able to trust and depend on me too",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love how you can always put a positive spin on things. Your positive and happy personality is magnetic – I don’t ever want to be without it!",
+    source: "Reasons why I love you",
+  },
+  
+   {
+    quote: "You have the biggest heart of everyone I have ever met, just by being YOU, you make people feel loved and cared for",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "You are extremely supportive of all the decisions I make and I always feel you have my back",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I always look forward to our adventures and to see you again. Because I know when I am with you, fun always follows",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "No matter what happens, I know you’ll always be there for me and have my best interests at heart. I want you to know I really appreciate the support and that I am always here when you need it",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I appreciate you for being you, there is no one quite like you and that’s a whole reason why I love you even more",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I appreciate you for bringing the best out in me",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "You don’t shy away from tough conversations and as a result our relationship is stronger",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love how you’ll never pretend to be someone you are not and will always show your authentic self",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I feel so incredibly safe around you and know that I am in very good hands",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I feel like you get me like no one else does and I love that I can tell you something and you’ll understand it straight away",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "You are the first person I want to speak to when I wake up and when something goes wrong, and that’s not an honor many get",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "You know me better than anyone and have truly become my best friend",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love hearing about the wonderful and creative ideas you have. I know you are destined for big things and I am so excited to be right by your side for it",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I appreciate your love and commitment to our relationship",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "You have a heart of pure gold, platinum- if I may. You care so much for people and I admire that. I promise to always show you the love you show me, and more!",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "Seven billion smiles in the world and yours will always get me weak in my knees",
+    source: "Reasons why I love you",
+  },
+  {
+    quote: "You look fire with a haircut and with overgrown floppy hair and a Dayo boy hair style",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "You bring so much clarity and calmness into my life, your rational approach to my irrational overthinking has always come to my rescue",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "When I see you, I can’t believe you are mine, I am so incredibly lucky to have you as my fiancé and soon my husband! (What’s the countdown again???)",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "It’s so thoughtful how you remember the little things, even when I feel that you sometimes don’t pick up on it (and I get annoyed when you don’t point out the obvious), but throughout my time with you I have seen how much effort and thought you put into everything for me",
+    source: "Reasons why I love you",
+  },
+  {
+    quote: "Whenever I doubt myself you are there to lift me up and encourage me",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love our time enjoying each other’s company, be it virtual or in person",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "I love your spontaneity, I know life will never be boring as long as I am with you",
+    source: "Reasons why I love you",
+  },
+   {
+    quote: "Our relationship has always been more than just physical attraction, and has always come with a deep sense of love and alignment in our values and passions. Even through I am crazily attracted to you",
+    source: "Reasons why I love you",
+  },
+    {
+    quote: "I did not know what I was missing until I found you",
+    source: "Reasons why I love you",
+  },
+  
 ];
 // CSS Color Names
 // Compiled by @bobspace.
@@ -172,8 +299,8 @@ var quotesUsed = [];
 var intervalID;
 
 // const keyword is not supported in IE
-var NUMBER_OF_QUOTES = 39;
-var CHANGE_INTERVAL = 10000;
+var NUMBER_OF_QUOTES = 69;
+var CHANGE_INTERVAL = 100000;
 
 // From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
@@ -199,7 +326,7 @@ function getRandomQuote() {
 
   do {
 
-    quoteIndex = getRandomIntInclusive(0, 39);
+    quoteIndex = getRandomIntInclusive(0, 69);
 
   } while (quotesUsed.includes(quoteIndex));
 
