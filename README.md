@@ -51,6 +51,7 @@ Extra Credit Criteria
 - [x] Don't display a random quote more than once until ALL quotes from the array have been displayed. 
 - [x] To help reviewers (and yourself) verify that the quotes don’t repeat until they’ve all been displayed, log the quote to the console each time the “Show Another Quote” button is clicked.
 - [x] Refresh the quote after a set amount of time. For example, every 30 seconds, make a new quote appear. (You can use the setInterval() or setTimeout() method to do this.
+- [ ] 
 
 
 ### Resources
